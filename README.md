@@ -1,11 +1,11 @@
 # Workout Renderer 🏃‍♂️
 
-This project is a React + TailwindCSS component that renders a structured running workout from a JSON input. It is built using **Next.js 15**, with modular components and utility-first styling.
+This project is a React + TailwindCSS component that renders a structured running workout from a JSON input. It is built using **Next.js**, with modular components and utility-first styling.
 
 ## 📦 Tech Stack
 
-- **Next.js 15 (App Router)**
-- **React 18**
+- **Next.js (App Router)**
+- **React**
 - **Tailwind CSS**
 - **Google Fonts – Poppins**
 
